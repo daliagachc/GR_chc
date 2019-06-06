@@ -110,8 +110,8 @@ negplot=negplot+theme(axis.title.x=element_blank(),
                       plot.title=element_blank(),
                       #plot.margin = unit(c(0,0.5,0,0), "cm"),
                       axis.title.y=element_text(size=12),
-                      panel.grid.major.x=element_line(size=0.5,color="grey"),
-                      panel.ontop=F,
+                      #panel.grid.major.x=element_line(size=0.5,color="grey"),
+                      #panel.ontop=F,
                       legend.position="right")
 
 wdplot=wdplot+theme(axis.title.x=element_blank(),
@@ -119,7 +119,7 @@ wdplot=wdplot+theme(axis.title.x=element_blank(),
                     axis.text.x=element_blank(),
                     axis.text.y=element_text(size=11),
                     axis.title.y=element_text(size=12),
-                    panel.grid.major.x=element_line(size=0.5,color="grey"),
+                    #panel.grid.major.x=element_line(size=0.5,color="grey"),
                     legend.position="right",
                     legend.direction="horizontal",
                     legend.title=element_blank())+
@@ -135,7 +135,7 @@ acsmplot=acsmplot+theme(axis.title.x=element_blank(),
                         axis.text.x=element_blank(),
                         axis.text.y=element_text(size=11),
                         axis.title.y=element_text(size=12),
-                        panel.grid.major.x=element_line(size=0.5,color="grey"),
+                        #panel.grid.major.x=element_line(size=0.5,color="grey"),
                         legend.position="right",
                         legend.background = element_blank(),
                         legend.text=element_text(size=11))+
@@ -149,7 +149,7 @@ API_CS_plot=API_CS_plot+
         axis.text.x=element_blank(),
         axis.text.y=element_text(size=11),
         axis.title=element_text(size=12),
-        panel.grid.major.x=element_line(size=0.5,color="grey"),
+        #panel.grid.major.x=element_line(size=0.5,color="grey"),
         legend.position="right",
         legend.background = element_blank(),
         legend.text=element_text(size=11))+
@@ -162,15 +162,21 @@ radplot=radplot+
                       axis.text.x=element_blank(),
                       axis.title=element_text(size=12),
         axis.text.y=element_text(size=11),
-                      panel.grid.major.x=element_line(size=0.5,color="grey"),
+                      #panel.grid.major.x=element_line(size=0.5,color="grey"),
                       legend.position="right",
                       legend.text=element_text(colour="white"),
         legend.background = element_rect(colour="white"),
         legend.key = element_rect(fill = "white", color = NA))+
   labs(y="rad")
 
+dummyplot=radplot+coord_cartesian(ylim=c(1e10,1e11))
 
-ptotal=ggarrange(negplot,acsmplot,API_CS_plot,wdplot,radplot,
+if (nrow(acsmplot$data)==0){
+  acsmplot=ggplot()
+}
+
+
+ptotal=ggarrange(negplot,negplot,API_CS_plot,wdplot,radplot,
           ncol = 1, nrow  =5,align="v",
           heights=c(1,0.7,0.7,0.5,0.25))
 annotate_figure(ptotal,
