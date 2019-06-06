@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "C84393E9",
-    "lastKnownWriteTime" : 1559863006,
-    "last_content_update" : 1559863006349,
+    "lastKnownWriteTime" : 1559863170,
+    "last_content_update" : 1559863170593,
     "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/scripts/GR_sizebins_event_bar.R",
     "project_path" : "Rcode/scripts/GR_sizebins_event_bar.R",
     "properties" : {
-        "cursorPosition" : "45,35",
-        "scrollLine" : "21",
+        "cursorPosition" : "43,56",
+        "scrollLine" : "17",
         "tempName" : "Untitled1"
     },
     "relative_order" : 7,
