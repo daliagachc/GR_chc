@@ -6,12 +6,27 @@
 - Diego Aliaga
 ---
 
-![70% center](../../Rproject/results/figures/npf_event_clasification.png)
-based on [1] 
-
-[1] Maso, M. D. et al. Formation and growth of fresh atmospheric aerosols: eight years of aerosol size distribution data from SMEAR II, Hyytiälä, Finland. 10, 15
+![100% center](../../Rproject/results/figures/npf_event_clasification.png)
+based on Maso, M. D. et al. Formation and growth of fresh atmospheric aerosols: eight years of aerosol size distribution data from SMEAR II, Hyytiala, Finland. 10, 15
 
 ---
+
+![75% center](../../Rproject/results/figures/2019_meeting_box_bins.png)
+
+
+![75% center](../../Rproject/results/figures/regression_GR_linear.png)
+
+---
+
+![100% center](../../Rproject/results/figures/compa_classical_splined.png)
+
+
+---
+
+![70% center](../../Rproject/results/figures/splined_functions_plot.png)
+
+---
+
 
 
 
