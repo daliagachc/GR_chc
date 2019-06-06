@@ -9,4 +9,7 @@ info and data about growth rates at CHC during the SALTENA campaign 2017.12-2018
       
 - result figures are here:
 [Rproject/results/figures/](Rproject/results/figures/)
+
+- event classification csv is here:
+[Rproject/data/processed/CHC_eventDays_Diego_Max.csv](Rproject/data/processed/CHC_eventDays_Diego_Max.csv)
       
