@@ -1,3 +1,5 @@
+
+#------------------------------DATA HANDLING
 #getting the evaluated splines
 splined_rep_df=evaluate_splined_trajectories(splined.smooth_functions,
                                              filt.tray.df,30) %>%
@@ -10,7 +12,16 @@ mask=unique(mask)
 wd=merge(splined_rep_df,mask) %>%
   arrange(eventID)
 
-wd$cuts=cut(wd$dp_splined,breaks=seq(1,28,2),include.lowest=T)
+init=1
+end=25
+n=8
+sequence=seq(log(init),log(end),(log(end)-log(init))/n)
+sequence=exp(sequence)
+sequence=round(sequence,1)
+#sequence=seq(1,40,2)
+
+
+wd$cuts=cut(wd$dp_splined,breaks=sequence,include.lowest=T)
 wd=na.omit(wd)
 #levels(wd$cuts)=as.character(seq(1,40,2))
 

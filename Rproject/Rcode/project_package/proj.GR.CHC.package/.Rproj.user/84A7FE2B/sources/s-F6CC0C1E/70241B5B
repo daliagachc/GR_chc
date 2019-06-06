@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "70241B5B",
-    "lastKnownWriteTime" : 1559750470,
-    "last_content_update" : 1559750470970,
+    "lastKnownWriteTime" : 1559851244,
+    "last_content_update" : 1559851244451,
     "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/project_package/proj.GR.CHC.package/R/function_convertToLimit.R",
     "project_path" : "R/function_convertToLimit.R",
     "properties" : {
-        "cursorPosition" : "5,12",
-        "scrollLine" : "0",
+        "cursorPosition" : "20,17",
+        "scrollLine" : "8",
         "tempName" : "Untitled1"
     },
     "relative_order" : 5,

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559852955229.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AC9509D6",
+    "lastKnownWriteTime" : 31525476567548007,
+    "last_content_update" : 1559852955229,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "69342FC8",
+        "caption" : "npfevent_size_frame",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=npfevent_size_frame&cache_key=69342FC8",
+        "displayedObservations" : 5278,
+        "environment" : "",
+        "object" : "npfevent_size_frame",
+        "preview" : 0,
+        "totalObservations" : 5278,
+        "variables" : 15
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

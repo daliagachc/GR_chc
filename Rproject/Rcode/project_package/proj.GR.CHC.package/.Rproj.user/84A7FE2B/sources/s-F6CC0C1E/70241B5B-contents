@@ -18,6 +18,7 @@ convertToLimit=function(x,i){#gets the limit value (i=0, lower..i=1, upper) for 
   #interval created with the cut function.
   if (i==0){#get lower limit
     help=gsub('\\(','',x)
+    help=gsub('\\[','',x)
     help=gsub(',.*',"",help)
   } else if (i==1){#get upper limit
     help=gsub('.*,','',x)
