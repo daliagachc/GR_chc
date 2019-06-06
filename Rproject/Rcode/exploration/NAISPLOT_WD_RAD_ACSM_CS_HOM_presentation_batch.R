@@ -1,6 +1,6 @@
-# 
-# time1=as.POSIXct("2018-02-04 ",tz="etc/GMT+4")
-# time2=as.POSIXct("2018-02-06 00:00",tz="etc/GMT+4")
+
+# time1=as.POSIXct("2018-02-01 ",tz="etc/GMT+4")
+# time2=as.POSIXct("2018-02-4 00:00",tz="etc/GMT+4")
 
 wd=NAIS_ion_df
 attributes(wd$startTime)$tzone <- "etc/GMT+4" 
@@ -9,7 +9,8 @@ wd=subset(wd, startTime >= time1 & startTime < time2)
 
 #plot the negative ions
 negplot=plotNAIS(subset(wd,ion=="negative"))
-negplot=negplot+theme(legend.position="none")
+negplot=negplot+theme(legend.position="none")+
+  scale_x_datetime(limits=c(time1,time2))
 
 #getting the evaluated splines
 splined_rep_df=evaluate_splined_trajectories(splined.smooth_functions,
@@ -44,7 +45,8 @@ wdplot=ggplot(data=wd,aes(x=localTime,y=WD,group=1))+
   scale_x_datetime(date_breaks = "1 day",
                               labels = date_format("%d", tz="etc/GMT+4"),
                               position = "bottom",
-                              expand = c(0.01,0.01))+
+                              expand = c(0.01,0.01),
+                   limits=c(time1,time2))+
   scale_y_continuous(breaks=seq(0,360,90))+
   scale_color_manual(values=c("white","black","black"))+
   geom_hline(yintercept=180,col="darkgrey")+
@@ -59,7 +61,8 @@ radplot=ggplot(data=wd,aes(x=localTime,y=normalizeIt(SWu,"max")))+
   scale_x_datetime(date_breaks = "1 day",
                    labels = date_format("%d", tz="etc/GMT+4"),
                    position = "bottom",
-                   expand = c(0.01,0.01))+
+                   expand = c(0.01,0.01),
+                   limits=c(time1,time2))+
   labs(y="rad")
 
 #ACSM plot
@@ -83,7 +86,8 @@ acsmplot=ggplot(data=wd)+
   scale_x_datetime(date_breaks = "1 day",
                    labels = date_format("%d", tz="etc/GMT+4"),
                    position = "bottom",
-                   expand = c(0.01,0.01))
+                   expand = c(0.01,0.01),
+                   limits=c(time1,time2))
 
 #APITIF-CS plot
 wd=ACSM_API_CS_KAPPA_combined
@@ -102,7 +106,8 @@ API_CS_plot=ggplot(data=wd)+
   scale_x_datetime(date_breaks = "1 day",
                    labels = date_format("%d", tz="etc/GMT+4"),
                    position = "bottom",
-                   expand = c(0.01,0.01))
+                   expand = c(0.01,0.01),
+                   limits=c(time1,time2))
 
 #
 
@@ -172,24 +177,31 @@ radplot=radplot+
   labs(y="rad")
 
 #creating a dummyplot if a plot is missing
-dummyplot=negplot+coord_cartesian(ylim=c(1e10,1e11))+
-  labs(x="",y="",col)
+# dummyplot=negplot+coord_cartesian(ylim=c(1e10,1e11))+
+#   labs(x="",y="",col)
+# 
+# if (nrow(acsmplot$data)==0){
+#   acsmplot=dummyplot
+# }
+# if (nrow(API_CS_plot$data)==0){
+#   API_CS_plot=dummyplot
+# }
 
-if (nrow(acsmplot$data)==0){
-  acsmplot=dummyplot
-}
-if (nrow(API_CS_plot$data)==0){
-  API_CS_plot=dummyplot
-}
 
 
-ptotal=ggarrange(negplot,API_CS_plot,wdplot,radplot,
-          ncol = 1, nrow  =4,align="v",
-          heights=c(1,0.7,0.7,0.5,0.25))
+if (nrow(negplot$data)!=0 & nrow(radplot$data)!=0 & nrow(wdplot$data)!=0 & nrow(API_CS_plot$data)!=0){
+  ptotal=ggarrange(negplot,API_CS_plot,wdplot,radplot,
+                   ncol = 1, nrow  =4,align="v",
+                   heights=c(1,0.7,0.7,0.5,0.25))
+  ptotal
+  
+  ggsave(paste0(time1,"_",time2,".png"),plot=last_plot(),device="png",dpi=600,
+         path=paste(here::here(),"/results/figures/presentation_batch",sep="/"),
+         width=10,height=6)
+  
+} else {print("not all data available")}
 
-ggsave(paste0(time1,time2,".png"),plot=last_plot(),device="png",dpi=600,
-       path=paste(here::here(),"/results/figures/presentation_batch",sep="/"),
-       width=10,height=6)
+
 
 
 # 

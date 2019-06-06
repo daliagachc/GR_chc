@@ -7,7 +7,8 @@ help=meteo_file  %>%
   mutate(date=as.POSIXct(YMD,tz="etc/GMT+4"))
 
 help=subset(help, date > as.POSIXct("2017-12-30",tz="etc/GMT+4"),
-            date < as.POSIXct("2018-06-15",tz="etc/GMT+4"))
+            date < as.POSIXct("2018-06-15",tz="etc/GMT+4")) %>%
+  dplyr::select(date)
 
 help=unique(help)
 
