@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559748001514.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1970558074",
+    "id" : "28D7D98F",
+    "lastKnownWriteTime" : 1559748016,
+    "last_content_update" : 1559748016405,
+    "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/project_package/proj.GR.CHC.package/R/function_import_SA_dat.R",
+    "project_path" : "R/function_import_SA_dat.R",
+    "properties" : {
+        "cursorPosition" : "3,27",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

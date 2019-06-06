@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559756647364.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1834128662",
+    "id" : "5BC2D0FB",
+    "lastKnownWriteTime" : 1559826976,
+    "last_content_update" : 1559826976363,
+    "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/project_package/proj.GR.CHC.package/R/function_import_NAIS_data_2013_2018.R",
+    "project_path" : "R/function_import_NAIS_data_2013_2018.R",
+    "properties" : {
+        "cursorPosition" : "13,48",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

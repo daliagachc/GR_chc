@@ -1,6 +1,6 @@
-
-time1=as.POSIXct("2018-02-04 ",tz="etc/GMT+4")
-time2=as.POSIXct("2018-02-06 00:00",tz="etc/GMT+4")
+# 
+# time1=as.POSIXct("2018-02-04 ",tz="etc/GMT+4")
+# time2=as.POSIXct("2018-02-06 00:00",tz="etc/GMT+4")
 
 wd=NAIS_ion_df
 attributes(wd$startTime)$tzone <- "etc/GMT+4" 
@@ -186,6 +186,12 @@ if (nrow(API_CS_plot$data)==0){
 ptotal=ggarrange(negplot,API_CS_plot,wdplot,radplot,
           ncol = 1, nrow  =4,align="v",
           heights=c(1,0.7,0.7,0.5,0.25))
+
+ggsave(paste0(time1,time2,".png"),plot=last_plot(),device="png",dpi=600,
+       path=paste(here::here(),"/results/figures/presentation_batch",sep="/"),
+       width=10,height=6)
+
+
 # 
 # g=VAlignPlots(negplot,API_CS_plot,wdplot,radplot)
 # annotate_figure(g,
