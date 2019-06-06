@@ -1,0 +1,14 @@
+npf_clas_DM=import_npf_event_clas_DM(paste(here::here(),"data/raw",sep="/"),
+                                     "event_clasification_Diego_Max.csv")
+
+
+sum(npf_clas_DM$classI)
+sum(npf_clas_DM$classII)
+
+wd=gather(npf_clas_DM,key="flag",value="value",2:8)
+wd$value=as.numeric(wd$value)
+
+
+ggplot(data=wd,aes(x=dateUTC,y=flag,fill=value))+
+  geom_raster()+
+  scale_x_datetime(breaks=date_breaks())

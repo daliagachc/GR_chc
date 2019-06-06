@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559828207592.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "85661B2A",
+    "lastKnownWriteTime" : 1559760474,
+    "last_content_update" : 1559760474,
+    "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/scripts/plot_comparison_classical_splined.R",
+    "project_path" : "Rcode/scripts/plot_comparison_classical_splined.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
