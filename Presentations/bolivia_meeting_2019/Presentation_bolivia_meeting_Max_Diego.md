@@ -1,9 +1,19 @@
 <!-- $theme: gaia -->
 <!-- page_number: true -->
+<!-- footer: Bolivia Meeting - Helsinki 2019.06 -->
 # Growth Rates at CHC 
+- Alkuin Koenig (Max)
+- Diego Aliaga
+---
 
+![70% center](../../Rproject/results/figures/npf_event_clasification.png)
+based on [1] 
+
+[1] Maso, M. D. et al. Formation and growth of fresh atmospheric aerosols: eight years of aerosol size distribution data from SMEAR II, Hyytiälä, Finland. 10, 15
 
 ---
+
+
 
 > In Greek mythology, **Gaia** also spelled **Gaea**, was the personification of the Earth and one of the Greek primordial deities.
 >
