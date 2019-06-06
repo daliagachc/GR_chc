@@ -7,3 +7,6 @@ info and data about growth rates at CHC during the SALTENA campaign 2017.12-2018
       - data in this folder should not be too large ~<100mb 
       - for larger datasets use server at uhel
       
+- result figures are here:
+[GR_chc/Rproject/results/figures/](GR_chc/Rproject/results/figures/)
+      
