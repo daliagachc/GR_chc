@@ -1,4 +1,7 @@
+#This script gets called for batch plotting.
+#It does not really work properly at the moment.
 
+# 
 # time1=as.POSIXct("2018-02-01 ",tz="etc/GMT+4")
 # time2=as.POSIXct("2018-02-4 00:00",tz="etc/GMT+4")
 

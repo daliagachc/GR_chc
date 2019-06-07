@@ -1,4 +1,5 @@
-#batching
+#batch plotting by calling another script for plotting.
+#DOes not work properly yet.
 
 
 help=meteo_file  %>% 
