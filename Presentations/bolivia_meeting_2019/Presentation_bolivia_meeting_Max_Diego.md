@@ -18,14 +18,14 @@ based on Maso, M. D. et al. Formation and growth of fresh atmospheric aerosols: 
 
 ---
 
-![100% center](../../Rproject/results/figures/compa_classical_splined.png)
+![75% center](../../Rproject/results/figures/splined_functions_plot.png)
 
 
----
-
-![70% center](../../Rproject/results/figures/splined_functions_plot.png)
+![75„% center](../../Rproject/results/figures/compa_classical_splined.png)
 
 ---
+
+
 
 
 
