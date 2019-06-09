@@ -1,6 +1,6 @@
 
-time1=as.POSIXct("2018-04-04 ",tz="etc/GMT+4")
-time2=as.POSIXct("2018-04-06 00:00",tz="etc/GMT+4")
+time1=as.POSIXct("2018-02-04 ",tz="etc/GMT+4")
+time2=as.POSIXct("2018-02-06 00:00",tz="etc/GMT+4")
 
 wd=NAIS_ion_df
 attributes(wd$startTime)$tzone <- "etc/GMT+4" 
@@ -25,6 +25,8 @@ GRlabels=subset(GRlabels,timeSinceStart %in% c(250,1000,2500,5500))
 GRlabels=subset(GRlabels, Time >= time1 & Time < time2)%>%
   dplyr::filter(substring(eventID,1,1)=="N")
 
+
+#modifying the plots
 
 negplot=negplot+geom_line(data=splined_rep_df,aes(y=dp_splined*1e-9,x=Time,group=eventID),size=1)+
   geom_text(data=GRlabels, aes(x=Time-5000,dp_splined*1e-9,label=round(dp_splined_der,0)),size=5)+
@@ -169,24 +171,31 @@ radplot=radplot+
         legend.key = element_rect(fill = "white", color = NA))+
   labs(y="rad")
 
-dummyplot=radplot+coord_cartesian(ylim=c(1e10,1e11))
+#creating a dummyplot if a plot is missing
+dummyplot=negplot+coord_cartesian(ylim=c(1e10,1e11))+
+  labs(x="",y="",col)
 
 if (nrow(acsmplot$data)==0){
-  acsmplot=ggplot()
+  acsmplot=dummyplot
+}
+if (nrow(API_CS_plot$data)==0){
+  API_CS_plot=dummyplot
 }
 
 
-ptotal=ggarrange(negplot,negplot,API_CS_plot,wdplot,radplot,
-          ncol = 1, nrow  =5,align="v",
+ptotal=ggarrange(negplot,API_CS_plot,wdplot,radplot,
+          ncol = 1, nrow  =4,align="v",
           heights=c(1,0.7,0.7,0.5,0.25))
-annotate_figure(ptotal,
-                top = text_grob(paste0(time1," until ",time2,"-negative ions")))
-
-# workDir=getwd()
-# setwd(paste0(workDir,"/R/figs"))
-# #saving as png
-# ggsave(paste0("NAIS_WD_RAD_ACSM_CS_",time1,"--",time2,".png"), plot = last_plot(),
-#        scale = 1, dpi = 300, device = "png")
-# setwd(workDir)
 # 
-
+# g=VAlignPlots(negplot,API_CS_plot,wdplot,radplot)
+# annotate_figure(g,
+#                 top = text_grob(paste0(time1," until ",time2,"-negative ions")))
+# 
+# # workDir=getwd()
+# # setwd(paste0(workDir,"/R/figs"))
+# # #saving as png
+# # ggsave(paste0("NAIS_WD_RAD_ACSM_CS_",time1,"--",time2,".png"), plot = last_plot(),
+# #        scale = 1, dpi = 300, device = "png")
+# # setwd(workDir)
+# # 
+# 

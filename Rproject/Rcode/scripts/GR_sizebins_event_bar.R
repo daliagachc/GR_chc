@@ -1,11 +1,5 @@
-formatterExp <- function(x){ 
-  round(exp(x),2)
-}
 
-#scale_y_continuous(labels = formatter1000)
-
-
-#------------------------------DATA HANDLING
+#------------------------------DATA HANDLING------------------------------
 #getting the evaluated splines
 splined_rep_df=evaluate_splined_trajectories(splined.smooth_functions,
                                              filt.tray.df,30) %>%
@@ -35,8 +29,19 @@ mask=npfevent_size_frame %>%
 mask=unique(mask)
 
 wd.s2=dplyr::inner_join(wd.s,mask,by="eventID") %>%
-  mutate(date=as.POSIXct(date,tz="UTC"))
+  mutate(date=as.POSIXct(date,tz="UTC"),
+         charge=getCharge_eventID(eventID))
 
-ggplot(data=wd.s2,aes(x=date,y=medianDer,fill=cuts))+
-  geom_col(position="dodge")+
-  theme(axis.text.x=element_text(angle=90))
+#------------------------------PLOTTING------------------------------
+
+plotdata=wd.s2 %>%
+  dplyr::filter(charge=="negative") %>%
+  I
+
+ggplot(data=plotdata,aes(x=date,y=medianDer,fill=cuts))+
+  geom_col(position=position_dodge(),col="black")+
+  #scale_fill_manual(values=c(""))+
+  labs(fill="sizerange\n[nm]",x="",y="median GR [nm/h]",
+       caption="negatively charged ions")+
+  theme(axis.text.x=element_text(angle=90))+
+  scale_x_datetime(breaks=date_breaks("5 days"))

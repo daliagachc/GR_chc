@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559757591519.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1579518725",
+    "id" : "23D10B81",
+    "lastKnownWriteTime" : 1559757779,
+    "last_content_update" : 1559757779673,
+    "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/project_package/proj.GR.CHC.package/R/function_evaluate_splined_trajectories.R",
+    "project_path" : "R/function_evaluate_splined_trajectories.R",
+    "properties" : {
+        "cursorPosition" : "6,40",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
