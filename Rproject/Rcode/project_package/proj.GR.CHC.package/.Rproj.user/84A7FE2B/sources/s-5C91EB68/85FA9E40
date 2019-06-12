@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559865752225.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "85FA9E40",
+    "lastKnownWriteTime" : 1559865879,
+    "last_content_update" : 1559865879513,
+    "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/project_package/proj.GR.CHC.package/R/function_bin_hourly.R",
+    "project_path" : "R/function_bin_hourly.R",
+    "properties" : {
+        "cursorPosition" : "3,23",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 18,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
