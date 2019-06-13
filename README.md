@@ -26,11 +26,14 @@ info and data about growth rates at CHC during the SALTENA campaign 2017.12-2018
     
     I suggest using "score_over_10" > 5 and airmass_change == 0 as filters to get "clean events". Alternatively, growing events with high dispersion (see IQR and SD) can be excluded
     
-- Batchplots of NAIS surface plots, GR obtained by splined approach (nm/h, lines and dots), ACSM data, SA-APITOF data, wind-direction and radiance can be found here: [Rproject/results/figures/NAIS_batch_selected/](Rproject/results/figures/NAIS_batch_selected/) and here:
-  - in NAIS_batch_selected, GR lines are only plotted for events with score_over_10 > 5 and airmass_change_flag == 0. 
+- Batchplots of NAIS surface plots, GR obtained by splined approach, ACSM data, SA-APITOF data, wind-direction and radiance can be found here: [Rproject/results/figures/NAIS_batch_selected/](Rproject/results/figures/NAIS_batch_selected/) and here: [Rproject/results/figures/NAIS_batch_all/](Rproject/results/figures/NAIS_batch_all/)
+
+  - in NAIS_batch_selected, GR lines are only plotted for events with score_over_10 > 5 and airmass_change_flag == 0.
   - in NAIS_batch_all, GR lines are plotted for all uninterrupted events (only first of the day)
+  - Calculated GR spline functions - if available - plotted on top of NAIS surface plots as lines. Numbers indicate GR in nm/h evaluated at position of dots.
   - both ACSM and SA-API data is normalized by the global (= whole campaign) median.
   - radiation data normalized by the daily maximum.
+  - no GR data available for June, as I (Max) did not have the growing mode data for that month.
       
 - presentation for the Bolivia meeting 2019.06 is
 [here](Presentations/bolivia_meeting_2019/Presentation_bolivia_meeting_Max_Diego.md)
