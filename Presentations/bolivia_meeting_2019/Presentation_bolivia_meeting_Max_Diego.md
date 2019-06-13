@@ -1,198 +1,52 @@
 <!-- $theme: gaia -->
 <!-- page_number: true -->
 <!-- footer: Bolivia Meeting - Helsinki 2019.06 -->
+
 # Growth Rates at CHC 
 - Alkuin Koenig (Max)
 - Diego Aliaga
----
 
+     - data, results and further information at: 
+      [https://github.com/daliagachc/GR_chc/](https://github.com/daliagachc/GR_chc/)
+
+---
+#### NPF event clasification
 ![100% center](../../Rproject/results/figures/npf_event_clasification.png)
-based on Maso, M. D. et al. Formation and growth of fresh atmospheric aerosols: eight years of aerosol size distribution data from SMEAR II, Hyytiala, Finland. 10, 15
+###### based on Maso, M. D. et al. Formation and growth of fresh atmospheric aerosols: eight years of aerosol size distribution data from SMEAR II, Hyytiala, Finland. 10, 15
 
 ---
 
-![75% center](../../Rproject/results/figures/2019_meeting_box_bins.png)
+![100% center](../../Rproject/results/figures/2019_meeting_box_bins.png)
+
+___
+![100% center](../../Rproject/results/figures/splined_approach_fine.png)
+
+[https://github.com/daliagachc/GR_chc/blob/master/Rproject/results/files/GR_CHC_splined_approach_all_events.csv](
+https://github.com/daliagachc/GR_chc/blob/master/Rproject/results/files/GR_CHC_splined_approach_all_events.csv)
 
 
-![75% center](../../Rproject/results/figures/regression_GR_linear.png)
+---
+![150% center](../../Rproject/results/figures/regression_GR_linear.png)
+Linear correlation bewteen GR and $D_p$ [nm]
 
 ---
 
-![75% center](../../Rproject/results/figures/splined_functions_plot.png)
+![150% center](../../Rproject/results/figures/splined_functions_plot.png)
 
-
-![75„% center](../../Rproject/results/figures/compa_classical_splined.png)
-
+- methodology used to derive the growth rate using splines
 ---
 
+![150% center](../../Rproject/results/figures/compa_classical_splined.png)
 
-
-
-
-
-> In Greek mythology, **Gaia** also spelled **Gaea**, was the personification of the Earth and one of the Greek primordial deities.
->
-> <small>-- *[Gaia (mythology) - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Gaia_%28mythology%29)*</small>
-
+- comparison between the classical approach and the splined approach
 ---
 
+![120% center](../../Rproject/results/figures/2019_presentation_GR_sulfate.png)
 
-# Overview
-
-**Gaia** is the beautiful presentation theme on Marp!
-
-- ==**New features**==
-	1. Title Slides
-	2. Highlight
-	3. Color scheme
+- no correlation with sulfates 
 
 ---
+![150% center](../../Rproject/results/figures/2019_presentation_barplot.png)
 
-# How to use
+- GR values for event days divided in bin sizes 1-3, 3-7, 7-20 nm
 
-#### From menu
-
-Select menu: *View :arrow_right: Theme :arrow_right: Gaia*
-
-#### Use directive
-
-Set `gaia` theme by `$theme` Global Directive.
-
-```
-<!-- $theme: gaia -->
-```
-
----
-
-# Basic example 1
-
-**Lorem ipsum** dolor *sit* amet, ***consectetur*** adipiscing elit, sed do `eiusmod` tempor ==incididunt== ut labore et dolore ~~magna aliqua~~. :smile:
-
-> Stay Hungry. Stay Foolish. <small>_--Steve Jobs (2005)_</small>
-
-- List A
-	1. [Sub list](https://yhatt.github.io/marp/)
-	1. Sub list
-		- _More Sub list_
-
----
-
-# Basic example 2
-
-```javascript
-document.write('Hello, world!');
-```
-
-|table|layout|example|
-|:--|:-:|--:|
-|align to left|align to center|align to right|
-|:arrow_left: left|:arrow_left: center :arrow_right:|right :arrow_right:
-
-![70% center](../images/marp.png)
-
----
-<!-- *template: gaia -->
-
-## Introduce new features!!
-
-# ==1.== Title Slides
-
----
-
-# ==e.g.== This page :yum:
-
----
-
-## ==Apply centering== to the page<br />that has only headings!
-
-##### Useful to title slide. :laughing:
-
----
-
-> **==Tips:==**
-> Apply vertical centering to quote only page too.
-
----
-<!-- *template: gaia -->
-
-# ==2.== Highlight
-
----
-## Highlight Markup
-
-You can use `==` for ==highlighting blue==.
-
-```markdown
-==This is highlight markup.==
-```
-
-#### Notice
-
-*Marp would show <span style="background-color:yellow;">yellow marker highlight</span> in Markdown view or default slide theme.*
-
----
-<!-- *template: gaia -->
-
-# ==3.== Color scheme templates
----
-# ==Color== scheme templates
-
-Change color scheme *by `template` page directive.*
-
-```
-<!-- template: default -->
-```
-
-- **Default** :arrow_left: This page
-- Invert
-- Gaia (Theme color)
-
----
-<!-- *template: invert -->
-# ==Color== scheme templates
-
-Change color scheme *by `template` page directive.*
-
-```
-<!-- template: invert -->
-```
-
-- Default
-- **Invert** :arrow_left: This page
-- Gaia (Theme color)
-
----
-<!-- *template: gaia -->
-# ==Color== scheme templates
-
-Change color scheme *by `template` page directive.*
-
-```
-<!-- template: gaia -->
-```
-
-- Default
-- Invert
-- **Gaia** (Theme color) :arrow_left: This page
-
----
-<!-- *template: invert -->
-
-# Templates can use<br />to ==per pages==!
-
-##### with using temporally page directive `<!-- *template: invert -->`
-
----
-<!-- template: gaia -->
-
-# ==That's all!==
-
-## Let's create beautiful slides<br />with ==Marp== + ==Gaia== theme!
-
----
-
-#### `<!-- $theme: gaia -->` of Marp
-
-###### [![](../images/marp.png)](https://yhatt.github.io/marp)
-
-#### https://yhatt.github.io/marp

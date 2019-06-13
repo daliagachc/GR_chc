@@ -4,6 +4,374 @@
     <list default="true" id="03a30c33-0e06-4124-9e07-11b6263cba63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Presentations/bolivia_meeting_2019/Presentation_bolivia_meeting_Max_Diego.md" beforeDir="false" afterPath="$PROJECT_DIR$/Presentations/bolivia_meeting_2019/Presentation_bolivia_meeting_Max_Diego.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/exp/So2_2017_06_2018_06.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/exp/So2_2017_06_2018_06.tif.aux.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/exp/So2_2017_06_2018_06_log.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170630.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170701.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170702.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170703.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170704.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170705.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170706.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170707.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170708.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170709.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170710.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170711.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170712.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170713.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170714.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170715.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170716.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170717.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170718.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170719.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170720.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170721.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170722.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170723.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170724.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170725.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170726.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170727.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170728.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170729.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170730.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170731.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170801.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170802.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170803.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170804.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170805.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170806.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170807.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170808.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170809.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170810.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170811.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170812.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170813.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170814.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170815.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170816.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170817.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170818.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170819.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170820.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170821.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170822.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170823.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170824.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170825.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170826.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170827.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170828.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170829.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170830.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170831.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170901.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170902.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170903.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170904.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170905.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170906.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170907.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170908.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170909.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170910.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170911.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170912.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170913.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170914.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170915.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170916.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170917.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170918.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170919.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170920.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170921.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170922.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170923.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170924.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170925.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170926.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170927.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170928.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170929.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20170930.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171001.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171002.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171003.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171004.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171005.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171006.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171007.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171008.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171009.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171010.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171011.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171012.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171013.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171014.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171015.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171016.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171017.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171018.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171019.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171020.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171021.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171022.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171023.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171024.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171025.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171026.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171027.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171028.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171029.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171030.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171031.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171101.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171102.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171103.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171104.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171105.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171106.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171107.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171108.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171109.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171110.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171111.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171112.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171113.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171114.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171115.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171116.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171117.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171118.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171119.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171120.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171121.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171122.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171123.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171124.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171125.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171126.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171127.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171128.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171129.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171130.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171201.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171202.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171203.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171204.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171205.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171206.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171207.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171208.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171209.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171210.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171211.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171212.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171213.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171214.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171215.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171216.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171217.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171218.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171219.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171220.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171221.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171222.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171223.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171224.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171225.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171226.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171227.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171228.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171229.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171230.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20171231.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180101.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180102.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180103.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180104.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180105.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180106.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180107.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180108.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180109.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180110.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180111.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180112.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180113.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180114.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180115.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180116.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180117.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180118.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180119.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180120.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180121.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180122.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180123.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180124.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180125.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180126.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180127.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180128.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180129.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180130.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180131.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180201.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180202.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180203.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180204.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180205.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180206.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180207.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180208.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180209.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180210.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180211.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180212.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180213.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180214.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180215.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180216.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180217.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180218.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180219.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180220.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180221.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180222.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180223.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180224.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180225.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180226.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180227.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180228.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180301.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180302.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180303.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180304.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180305.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180306.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180307.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180308.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180309.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180310.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180311.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180312.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180313.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180314.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180315.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180316.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180317.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180318.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180319.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180320.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180321.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180322.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180323.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180324.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180325.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180326.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180327.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180328.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180329.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180330.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180331.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180401.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180402.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180403.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180404.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180405.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180406.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180407.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180408.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180409.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180410.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180411.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180412.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180413.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180414.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180415.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180416.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180417.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180418.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180419.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180420.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180421.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180422.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180423.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180424.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180425.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180426.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180427.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180428.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180429.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180430.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180501.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180502.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180503.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180504.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180505.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180506.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180507.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180508.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180509.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180510.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180511.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180512.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180513.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180514.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180515.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180516.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180517.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180518.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180519.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180520.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180521.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180522.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180523.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180524.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180525.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180526.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180527.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180528.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180529.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180530.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180531.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180601.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180602.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180603.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180604.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180605.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180606.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180607.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180608.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180609.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180610.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180611.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180612.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180613.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180614.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180615.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180616.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180617.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180618.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180619.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180620.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180621.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180622.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180623.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180624.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180625.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180626.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180627.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180628.74W_24S_57W_8S.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproject/data/satellite/SO2/g4.subsetted.OMSO2e_003_ColumnAmountSO2_PBL.20180629.74W_24S_57W_8S.nc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +380,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Presentations/bolivia_meeting_2019/Presentation_bolivia_meeting_Max_Diego.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rproject/results/naisPlots/NAIS3-20190306T133435Z-001/NAIS3/20171221_NAIS3_particles.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rproject/results/figures/2019_meeting_box_bins.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rproject/results/figures/2019_presentation_barplot.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rproject/results/figures/2019_presentation_GR_sulfate.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -38,7 +426,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="104" />
     <option name="y" value="53" />
     <option name="width" value="1680" />
@@ -49,7 +437,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,6 +464,12 @@
               <item name="GR_chc" type="b2602c69:ProjectViewProjectNode" />
               <item name="GR_chc" type="462c0819:PsiDirectoryNode" />
               <item name="Rproject" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GR_chc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GR_chc" type="462c0819:PsiDirectoryNode" />
+              <item name="Rproject" type="462c0819:PsiDirectoryNode" />
               <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -91,6 +484,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,23 +539,23 @@
       <option name="presentableId" value="Default" />
       <updated>1559856501783</updated>
       <workItem from="1559856503473" duration="4629000" />
+      <workItem from="1560401746385" duration="2066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4629000" />
+    <option name="totallyTimeSpent" value="6695000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="53" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.51867664" side_tool="true" weight="0.26797387" />
-      <window_info id="Structure" order="4" sideWeight="0.48135966" side_tool="true" visible="true" weight="0.18437119" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.51864034" visible="true" weight="0.18437119" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Structure" order="4" sideWeight="0.4819533" side_tool="true" visible="true" weight="0.16240682" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.51804674" visible="true" weight="0.16240682" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32870865" />
@@ -174,7 +568,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32977587" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -185,82 +579,183 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="LuaJ" order="8" />
       <window_info anchor="right" id="Data View" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-01-09_to_2018-01-10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-01-10_to_2018-01-11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-01-11_to_2018-01-12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-01-22_to_2018-01-23.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-01-30_to_2018-01-31.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-02-08_to_2018-02-09.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-02-17_to_2018-02-18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-02-19_to_2018-02-20.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_selected/2018-03-10_to_2018-03-11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-01-03_to_2018-01-04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-01-06_to_2018-01-07.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-01-07_to_2018-01-08.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-01-15_to_2018-01-16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-01-18_to_2018-01-19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-01-27_to_2018-01-28.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-02-04_to_2018-02-05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-02-10_to_2018-02-11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-02-16_to_2018-02-17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-02-23_to_2018-02-24.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-02-28_to_2018-03-01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-02-25_to_2018-02-26.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-30_to_2018-05-31.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-31_to_2018-06-01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-06-01_to_2018-06-02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-06-02_to_2018-06-03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-06-03_to_2018-06-04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-06-04_to_2018-06-05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-06-06_to_2018-06-07.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-06-07_to_2018-06-08.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-25_to_2018-05-26.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-21_to_2018-05-22.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-18_to_2018-05-19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-13_to_2018-05-14.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-12_to_2018-05-13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-11_to_2018-05-12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-10_to_2018-05-11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-09_to_2018-05-10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-08_to_2018-05-09.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/NAIS_batch_all/2018-05-07_to_2018-05-08.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/data/processed/CHC_eventDays_Diego_Max.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/surface_corrs.png">
+    <entry file="file://$PROJECT_DIR$/Rproject/data/processed/CHC_GR_days.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/data/processed/NAIS_CHC_ions_binned_5m.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/data/processed/NAIS_CHC_ions_binned_1H.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/data/processed/npf_event_size_frame.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rproject/results/naisPlots/NAIS3-20190306T133435Z-001/NAIS3/20171204_NAIS3_ions.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/event_highest_GR.png">
+    <entry file="file://$PROJECT_DIR$/Rproject/results/naisPlots/NAIS3-20190306T133435Z-001/NAIS3/20171217_NAIS3_ions.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/compa_classical_splined.png">
+    <entry file="file://$PROJECT_DIR$/Rproject/results/naisPlots/NAIS3-20190306T133435Z-001/NAIS3/20171221_NAIS3_particles.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Rproject/results/figures/2019_meeting_box_bins.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/GR_biggest_plot.png">
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/2019_presentation_GR_sulfate.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/npf_event_clasification.png">
+    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/2019_presentation_barplot.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/selected_scatters.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/report_plot_biggest_Gr.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/splined_approach_fine.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/splined_functions_plot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rproject/results/figures/regression_GR_linear.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/miniconda3/envs/b36/lib/python3.6/site-packages/xarray/core/pycompat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#15#25#0" expanded="true" />
-            <element signature="e#268#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/miniconda3/envs/b36/lib/python3.6/site-packages/xarray/core/indexing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="650" column="39" selection-start-line="650" selection-start-column="39" selection-end-line="650" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-            <element signature="e#23648#24740#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Presentations/bolivia_meeting_2019/Presentation_bolivia_meeting_Max_Diego.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
