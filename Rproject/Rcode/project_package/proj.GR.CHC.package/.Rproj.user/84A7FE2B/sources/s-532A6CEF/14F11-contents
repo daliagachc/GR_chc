@@ -37,9 +37,9 @@ create_splined_trajectories_V2=function(modesizeframe,eventIDframe,sparfac){
 
   mask2=eventIDframe %>%
     dplyr::filter(score10 >=5 & airChange ==0) %>%
-    select(eventID)
+    select(eventID,score10,airChange)
   workData=merge(workData,mask2,by="eventID",all=T) %>%
-    select(eventID,localTime,dp,ion)
+    select(eventID,localTime,dp,ion,score10,airchange)
 
   mask3=npfevent_size_frame %>%
     dplyr::group_by(eventID) %>%
