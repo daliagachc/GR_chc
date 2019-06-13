@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "21CD5F20",
-    "lastKnownWriteTime" : 1560385067,
-    "last_content_update" : 1560385067790,
+    "lastKnownWriteTime" : 1560399412,
+    "last_content_update" : 1560399412772,
     "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/scripts/prepare_work_space.R",
     "project_path" : "Rcode/scripts/prepare_work_space.R",
     "properties" : {
-        "cursorPosition" : "0,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "43,25",
+        "scrollLine" : "21"
     },
     "relative_order" : 1,
     "source_on_save" : false,

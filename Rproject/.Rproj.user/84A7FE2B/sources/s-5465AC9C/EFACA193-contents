@@ -1,6 +1,6 @@
 #batch plotting by calling another script for plotting.
 #DOes not work properly yet.
-help=seq(as.POSIXct("2018-01-01",tz="etc/GMT+4"), 
+help=seq(as.POSIXct("2017-12-18",tz="etc/GMT+4"), 
          as.POSIXct("2018-06-30",tz="etc/GMT+4"), by="days")
 
 

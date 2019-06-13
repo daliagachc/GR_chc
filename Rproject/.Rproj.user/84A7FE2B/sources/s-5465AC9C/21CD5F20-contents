@@ -35,7 +35,9 @@ event_GR_long=helplist[[2]]
 
 workData=subset(npfevent_size_frame,continued==1 & flag==1 &dailyevent==1)
 
-helplist=create_splined_trajectories(workData,eventIDclas,sparfac=0.96)
+#helplist=create_splined_trajectories(workData,eventIDclas,sparfac=0.96)
+helplist=create_splined_trajectories_V2(workData,eventIDclas,sparfac=0.96)
+
 filt.tray.df=helplist[[1]]
 splined.smooth_functions=helplist[[2]]
 
