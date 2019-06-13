@@ -54,6 +54,7 @@ tempfun_create_GR_sizegroup_csv=function(npfevent_size_frame,
     dplyr::group_by(YMD,dp_sizegroup,ion) %>%
     dplyr::summarise(GR_median=signif(median(dp_splined_der,na.rm=T),digits),
                      GR_mean=signif(mean(dp_splined_der,na.rm=T),digits),
+                     GR_iqr=signif(IQR(dp_splined_der,na.rm=T),digits),
                      GR_sd=signif(sd(dp_splined_der,na.rm=T),digits),
                      eventID=first(eventID))
   splined_rep_df.s=na.omit(splined_rep_df.s)

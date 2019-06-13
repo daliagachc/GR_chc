@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "879399949",
+    "hash" : "0",
     "id" : "7DD8E181",
-    "lastKnownWriteTime" : 1560396864,
-    "last_content_update" : 1560396864477,
+    "lastKnownWriteTime" : 1560397402,
+    "last_content_update" : 1560397402670,
     "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/scripts/create_GR_sizegroup_file.R",
     "project_path" : "Rcode/scripts/create_GR_sizegroup_file.R",
     "properties" : {
-        "cursorPosition" : "71,7",
+        "cursorPosition" : "74,12",
         "scrollLine" : "54",
         "tempName" : "Untitled2"
     },
