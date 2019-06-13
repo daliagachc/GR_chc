@@ -13,9 +13,7 @@ info and data about growth rates at CHC during the SALTENA campaign 2017.12-2018
 - event classification csv is here:
 [Rproject/data/processed/CHC_eventDays_Diego_Max.csv](Rproject/data/processed/CHC_eventDays_Diego_Max.csv)
       
-- File containing calculated growth rates (GR) using the splined approach is here:
-
-[Rproject/results/files/GR_CHC_splined_approach_all_events.csv](Rproject/results/files/GR_CHC_splined_approach_all_events.csv)
+- File containing calculated growth rates (GR) using the splined approach is here: [Rproject/results/files/GR_CHC_splined_approach_all_events.csv](Rproject/results/files/GR_CHC_splined_approach_all_events.csv)
 
     Columns to be interpreted as follows: 
     - dp_sizegroup: Size interval for the growing mode [nm]
