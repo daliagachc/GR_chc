@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559747430995.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6B6FBDF0",
+    "lastKnownWriteTime" : 1560384238,
+    "last_content_update" : 1560384238446,
+    "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/project_package/proj.GR.CHC.package/R/function_Import_GR_dat.R",
+    "project_path" : "R/function_Import_GR_dat.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

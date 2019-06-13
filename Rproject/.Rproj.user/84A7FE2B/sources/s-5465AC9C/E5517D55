@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560377010440.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E5517D55",
+    "lastKnownWriteTime" : 1554672693,
+    "last_content_update" : 1554672693,
+    "path" : "C:/fastFiles/projectSpringCourse/Rproject/Rcode/scripts/plot_splined_trayectories.R",
+    "project_path" : "Rcode/scripts/plot_splined_trayectories.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

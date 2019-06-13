@@ -1,0 +1,30 @@
+#evaluate the trayectories
+wd=filt.tray.df %>%
+  select(eventID,localTime,unfiltered,splined.smoothed.x)%>%
+  dplyr::group_by(eventID)%>%
+  mutate(timeSinceStart=splined.smoothed.x-min(splined.smoothed.x))%>%
+  as.data.frame()%>%
+  arrange(eventID,localTime) %>%
+  mutate(YMD=format(localTime,"%Y-%m-%d"))
+
+#getting the evaluated splines
+splined_rep_df=evaluate_splined_trajectories(splined.smooth_functions,
+                                             filt.tray.df,30)
+splined_rep_df=splined_rep_df%>%
+  mutate(YMD=format(Time,"%Y-%m-%d"))
+
+splined_rep_df$ion=getCharge_eventID(splined_rep_df$eventID)
+splined_rep_df$index=getInd_eventID(splined_rep_df$eventID)
+#wd$ion=getCharge_eventID(wd$eventID)
+
+splined_rep_df$dp_sizegroup=cut(splined_rep_df$dp_splined,breaks=c(1,3,7,20,60),include.lowest=T)
+
+splined_rep_df.sum=splined_rep_df %>%
+  dplyr::group_by(YMD,dp_sizegroup,ion) %>%
+  dplyr::summarise(GR_median=median(dp_splined_der,na.rm=T),
+                   GR_mean=mean(dp_splined_der,na.rm=T),
+                   GR_sd=sd(dp_splined_der,na.rm=T))
+splined_rep_df.sum=na.omit(splined_rep_df.sum)
+
+filename="GR_CHC_splined_approach_clean_events.csv"
+write.csv(splined_rep_df.sum,file=paste0(here::here(),"/results/files/",filename))
