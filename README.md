@@ -15,6 +15,8 @@ info and data about growth rates at CHC during the SALTENA campaign 2017.12-2018
       
 - File containing calculated growth rates (GR) using the splined approach is here:
 
+[Rproject/results/files/GR_CHC_splined_approach_all_events.csv](Rproject/results/files/GR_CHC_splined_approach_all_events.csv)
+
     Columns to be interpreted as follows: 
     - dp_sizegroup: Size interval for the growing mode [nm]
     - ion:  negative or positive ions
